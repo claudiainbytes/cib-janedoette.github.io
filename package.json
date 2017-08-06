@@ -1,0 +1,23 @@
+{
+  "name": "cib-janedoette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiainbytes/cib-janedoette.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiainbytes/cib-janedoette.github.io/issues"
+  },
+  "homepage": "https://github.com/claudiainbytes/cib-janedoette.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.7.0"
+  }
+}
